@@ -1,0 +1,5 @@
+pip install streamlit
+python 익스텐션 설치
+app.py 파일 생성
+streamlit run app.py
+화면 분할
